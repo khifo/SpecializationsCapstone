@@ -1,16 +1,18 @@
 import React from 'react';
 
-const HeroSection = () => {
+const HeroSection = ({ name, age, setAge }) => {
   return (
     <section className="hero">
-      {/* Your hero image or video */}
       <div className="hero-content">
         <h1>Welcome to our Youth Football Program</h1>
         <p>Join our team and be part of something amazing!</p>
-        <button>Join Now</button>
+        <p>Name: {name}</p>
+        <p>Age: {age}</p>
+        <button onClick={() => setAge(age + 1)}>Increase Age</button>
       </div>
     </section>
   );
 };
 
 export default HeroSection;
+
