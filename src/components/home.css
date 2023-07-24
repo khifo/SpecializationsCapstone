@@ -1,0 +1,86 @@
+/* header */
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+  }
+  
+  .logo {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  nav ul {
+    list-style: none;
+  }
+  
+  nav li {
+    display: inline-block;
+    margin-left: 20px;
+  }
+  
+  nav a {
+    color: #fff;
+    text-decoration: none;
+  }
+
+/* hero */
+  
+  .hero {
+    background-image: url('path/to/your-hero-image.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .hero-content {
+    text-align: center;
+  }
+  
+  .hero h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
+  }
+  
+  .hero p {
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+  
+  .hero button {
+    background-color: #f00;
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 18px;
+    border: none;
+    cursor: pointer;
+  }
+  
+/* highlights */
+  
+  .highlights {
+    display: flex;
+    justify-content: space-around;
+    padding: 40px 0;
+  }
+  
+  .highlight-item {
+    text-align: center;
+    max-width: 300px;
+  }
+  
+  .highlight-item h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .highlight-item p {
+    font-size: 16px;
+  }
+  
