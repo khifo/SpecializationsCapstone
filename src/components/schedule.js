@@ -7,15 +7,15 @@ const Schedule = () => {
     {
       date: '2023-08-12',
       time: '10:00 AM',
-      teamA: 'Youth Team A',
-      teamB: 'Youth Team B',
+      teamA: 'Pleasant Grove 5th Grade',
+      teamB: 'Westlake 5th Grade',
       location: 'Community Stadium'
     },
     {
       date: '2023-08-19',
       time: '11:30 AM',
-      teamA: 'Youth Team C',
-      teamB: 'Youth Team D',
+      teamA: 'Provo 6th Grade',
+      teamB: 'Springville 6th Grade',
       location: 'Sports Park'
     },
   ];
