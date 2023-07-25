@@ -8,9 +8,9 @@ const Footer = () => {
         <p>Phone: (555) 467-7890</p>
       </div>
       <div className="social">
-        <a href="#">Facebook</a>
-        <a href="#">Twitter</a>
-        <a href="#">Instagram</a>
+        <a href="https://www.facebook.com/">Facebook</a>
+        <a href="https://twitter.com/">Twitter</a>
+        <a href="https://www.instagram.com/">Instagram</a>
       </div>
       <p>&copy; 2023 Youth Football Program. All rights reserved.</p>
     </footer>

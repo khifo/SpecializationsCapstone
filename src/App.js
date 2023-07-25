@@ -1,9 +1,9 @@
 import React from 'react';
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import Home from './components/home';
-import Schedule from './components/schedule';
-import Concepts from './components/concepts';
-import Registration from './components/registration';
+import { HashRouter as Router, Route, Routes } from 'react-router-dom';
+import Home from './components/Home';
+import Schedule from './components/Schedule';
+import Concepts from './components/Concepts';
+import Registration from './components/Registration';
 
 
 function App() {

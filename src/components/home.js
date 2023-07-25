@@ -1,11 +1,11 @@
 import React, { useState } from 'react';
-import Header from '../components/Header';
-import HeroSection from '../components/HeroSection';
-import HighlightsSection from '../components/HighlightsSection';
-import Footer from '../components/Footer';
+import Header from './Header';
+import HeroSection from './HeroSection';
+import HighlightsSection from './HighlightsSection';
+import Footer from './Footer';
 
 const Home = () => {
-  const [name, setName] = useState('John Doe');
+  const [name] = useState('John Doe');
   const [age, setAge] = useState(25);
   const [isSubscribed, setIsSubscribed] = useState(false);
 
