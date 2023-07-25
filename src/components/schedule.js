@@ -2,7 +2,7 @@ import React from 'react';
 import Header from './Header';
 import Footer from './Footer';
 
-const Schedule = () => {
+function Schedule () {
   const scheduleData = [
     {
       date: '2023-08-12',
