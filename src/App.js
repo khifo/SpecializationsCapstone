@@ -9,17 +9,17 @@ import Navbar from './components/Navbar';
 
 function App() {
   return (
-    <Router>
-      <Routes>
-        <Route path="/Home" component={Home} />
-        <Route path="/Schedule" component={Schedule} />
-        <Route path="/Concepts" component={Concepts} />
-        <Route path="/Registration" component={Registration} /> 
-        <Route path="/Navbar" component={Navbar} /> 
-        </Routes>
-    </Router>
-  );
-};
+    //<Router>
+       <Routes>
+      <Route path="/" element={<Home/>} />
+      <Route path="/Schedule" element={<Schedule/>} />
+      <Route path="/Concepts" element={<Concepts/>} /> 
+      <Route path="/Registration" element={<Registration/>} /> 
+      <Route path="/Navbar" element={<Navbar/>} /> 
+      </Routes> 
+    // {/* </Router> */}
+  
+)};
 
 export default App;
 

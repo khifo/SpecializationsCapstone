@@ -11,7 +11,7 @@ const HeroSection = ({ name, age, setAge, setName }) => {
 
   return (
     <section>
-      <h2>Hero Section</h2>
+      <h2>Player Section</h2>
       <div>
         <label htmlFor="name">Name:</label>
         <input type="text" id="name" value={name} onChange={handleNameChange} />
