@@ -5,8 +5,8 @@ import HighlightsSection from '../components/HighlightsSection';
 import Footer from '../components/Footer';
 
 function Home () {
-  const [name, setName] = useState('John Doe');
-  const [age, setAge] = useState(25);
+  const [name, setName] = useState('');
+  const [age, setAge] = useState();
   const [isSubscribed, setIsSubscribed] = useState(false);
 
   return (
