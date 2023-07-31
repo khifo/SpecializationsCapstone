@@ -9,7 +9,9 @@ const Footer = () => {
       </div>
       <div className="social">
         <a href="https://www.facebook.com/">Facebook</a>
+
         <a href="https://twitter.com/">Twitter</a>
+        
         <a href="https://www.instagram.com/">Instagram</a>
       </div>
       <p>&copy; 2023 Youth Football Program. All rights reserved.</p>
