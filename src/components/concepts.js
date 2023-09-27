@@ -77,6 +77,10 @@ function CoveragesOnDefense() {
 }
 
 function specialTeams () {
-  return  
+  return (
+    <div>
+    <h2>Special Teams</h2>
+    </div>
+  )
 }
 export default FootballConcepts;
