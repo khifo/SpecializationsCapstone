@@ -11,6 +11,7 @@ const FootballConcepts = () => {
         <PassGame />
         <RunGame />
         <CoveragesOnDefense />
+        <specialTeams />
       </div>
       <Footer />
     </div>
