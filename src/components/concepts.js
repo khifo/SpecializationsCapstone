@@ -81,8 +81,10 @@ function specialTeams () {
   return (
     <div>
     <h2>Special Teams</h2>
-    <p>Special Teams is often overlooked because teams do not think it is important as offense or defense.</p>
+    <p>Special Teams is often overlooked because teams do not think it is important as offense or defense. Special teams include Kickoff, Kickoff Return, Punt, Punt Return, Field Goal, and Field Goal block.</p>
+    <p></p>
     </div>
+
   )
 }
 export default FootballConcepts;
