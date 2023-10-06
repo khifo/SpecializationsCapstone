@@ -82,7 +82,14 @@ function specialTeams () {
     <div>
     <h2>Special Teams</h2>
     <p>Special Teams is often overlooked because teams do not think it is important as offense or defense. Special teams include Kickoff, Kickoff Return, Punt, Punt Return, Field Goal, and Field Goal block.</p>
-    <p></p>
+    <ul>
+      <li>Kickoff</li>
+      <li>Kickoff Return</li>
+      <li>Punt</li>
+      <li>Punt Return</li>
+      <li>Field Goal</li>
+      <li>Field Goal block</li>
+    </ul>
     </div>
 
   )
