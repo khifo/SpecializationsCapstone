@@ -81,10 +81,10 @@ function specialTeams () {
   return (
     <div>
     <h2>Special Teams</h2>
-    <p>Special Teams is often overlooked because teams do not think it is important as offense or defense. Special teams include Kickoff, Kickoff Return, Punt, Punt Return, Field Goal, and Field Goal block.</p>
+    <p>Special Teams is often overlooked because coaches and players don't think it is important as offense or defense. Special teams include Kickoff, Kickoff Return, Punt, Punt Return, Field Goal, and Field Goal block.</p>
     <ul>
-      <li>Kickoff</li>
-      <li>Kickoff Return</li>
+      <li>Kickoff starts a drive where a kicker kicks the ball to the opposing team and the other players run down the field to make a tackle. </li>
+      <li>Kickoff Return receives the kick to run the ball as far as they can get for the offensive possession</li>
       <li>Punt</li>
       <li>Punt Return</li>
       <li>Field Goal</li>
