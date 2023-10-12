@@ -85,8 +85,8 @@ function specialTeams () {
     <ul>
       <li>Kickoff starts a drive where a kicker kicks the ball to the opposing team and the other players run down the field to make a tackle. </li>
       <li>Kickoff Return receives the kick to run the ball as far as they can get for the offensive possession</li>
-      <li>Punt</li>
-      <li>Punt Return</li>
+      <li>Punt occurs at the end of an offensive drive when a team cannot convert a first down</li>
+      <li>Punt Return occurs when a defense stops the offense from converting a first down </li>
       <li>Field Goal</li>
       <li>Field Goal block</li>
     </ul>
