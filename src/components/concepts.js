@@ -87,7 +87,7 @@ function specialTeams () {
       <li>Kickoff Return receives the kick to run the ball as far as they can get for the offensive possession</li>
       <li>Punt occurs at the end of an offensive drive when a team cannot convert a first down</li>
       <li>Punt Return occurs when a defense stops the offense from converting a first down </li>
-      <li>Field Goal occurs when a touchdown is made or when not converting a first down to score points</li>
+      <li>Field Goal occurs when a touchdown is made or when not converting a first down and in range to make an attempt</li>
       <li>Field Goal block occurs when the defense blocks an attempted field goal</li>
     </ul>
     </div>
