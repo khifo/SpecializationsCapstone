@@ -1,6 +1,6 @@
 {
   "name": "youth-football-program",
-  "homepage": "http://localhost:3000/",
+  "homepage": "http://localhost:5500/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
